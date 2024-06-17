@@ -41,7 +41,7 @@ A simple greeting page for Eid Al-Adha with a beautiful background image, intera
 
 ### Changing the Greeting Messages
 
-To change the greeting messages, modify the content inside the `<section id="satu">` and `<section id="dua">` in the `index.html` file.
+To change the greeting messages, modify the content inside the `<section id="anass">` and `<section id="essadikine">` in the `index.html` file.
 
 ### Updating the Footer Links
 
