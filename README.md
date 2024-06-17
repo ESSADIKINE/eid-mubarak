@@ -4,7 +4,7 @@ A simple greeting page for Eid Al-Adha with a beautiful background image, intera
 
 ## Preview
 
-![Eid Al-Adha](./bg.jpg)
+![Eid Al-Adha](./preview.png)
 
 ## Features
 
