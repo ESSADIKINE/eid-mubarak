@@ -24,7 +24,7 @@ A simple greeting page for Eid Al-Adha with a beautiful background image, intera
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/greeting-page.git
+    git clone https://github.com/ESSADIKINE/eid-mubarak.git
     cd greeting-page
     ```
 
